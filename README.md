@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm **Melih Çelenk**
 
-<!--
-**melihcelenk/melihcelenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer · Author · Musician**
 
-Here are some ideas to get you started:
+🌐 [melihcelenk.com](https://melihcelenk.com) · 💼 [LinkedIn](https://www.linkedin.com/in/melihcelenk) · 🎧 [Spotify](https://open.spotify.com/artist/2fhiZMLpSJLaV0d6gcImEr) · 📺 [YouTube](https://www.youtube.com/@mcelenk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- I develop backend systems that orchestrate AI-based medical imaging applications and handle PACS communication.  
+- I create automation tools and utilities to simplify workflows and improve productivity.  
+- Currently working as a backend developer at **Hevi AI**.
+
+---
+
+## ⚙️ Technologies
+- **Languages:** Java, C#, C++, Shell  
+- **Frameworks:** Spring Boot, JUnit, Mockito  
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite  
+- **Tools:** Docker, Jenkins, Git, Linux
+- **Concepts:** REST API, Microservices, DICOM & PACS Integration  
+
+---
+
+## 🏆 GitHub Stats
+![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=melihcelenk&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melihcelenk&layout=compact&theme=dark)
