@@ -19,8 +19,3 @@
 - **Databases:** MySQL, MongoDB, PostgreSQL, SQLite  
 - **Tools:** Docker, Jenkins, Git, Linux
 - **Concepts:** REST API, Microservices, DICOM & PACS Integration  
-
----
-
-## 🏆 GitHub Stats
-![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=melihcelenk&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melihcelenk&layout=compact&theme=dark)
